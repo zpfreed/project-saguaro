@@ -1,2 +1,2 @@
-# project-saguaro
-Tentrr UI Kit / FE Design System
+# Saguaro
+The Design System behind Tentrr, the dirt simple way to camp
