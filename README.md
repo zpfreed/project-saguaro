@@ -6,7 +6,7 @@ The Design System behind Tentrr, the dirt simple way to camp. The purpose of thi
 Eventually, this system will (hopefully) be migrated to a URL ([design.tentrr.com](https://design.tentrr.com "design.tentrr.com")) to have accessible documentation to make development simpler and remove unnecessary guesswork from our process.
 
 
-## Desgin assets
+## Design assets
 For anyone looking for the super awesome, *non-technical but still technical* designer stuff, check out the [Saguaro Design Library](https://github.com/zpfreed/project-saguaro-library "Saguaro Library") to start messing around with the UI system and the assets that fall under it.
 
 Those assets are:
